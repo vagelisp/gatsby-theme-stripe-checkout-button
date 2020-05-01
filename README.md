@@ -1,4 +1,4 @@
-# gatsby-theme-stripe-checkout-button-for-plans
+# gatsby-stripe-checkout-button-for-plans
 
 ## This is a fork of gatsby-theme-stripe-checkout-button and the only difference is that it works with Plans ( recursive payments )
 A Gatsby theme that implements a stripe checkout, you bring the button, we submit it as a stripe checkout. Register an account at [Stripe](https://stripe.com/en-se) and follow the instruction for setting up a developer account to get started.

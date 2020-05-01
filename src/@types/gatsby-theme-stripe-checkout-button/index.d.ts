@@ -1,4 +1,4 @@
-declare module "gatsby-theme-stripe-checkout-button-for-plans" {
+declare module "gatsby-stripe-checkout-button-for-plans" {
   interface Stripe {
     button: JSX.Element;
     plan: string;
