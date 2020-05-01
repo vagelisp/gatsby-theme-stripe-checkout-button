@@ -1,6 +1,6 @@
 {
   "name": "gatsby-stripe-checkout-button-for-plans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatby Stripe checkout button for plans",
   "main": "index.js",
   "scripts": {
