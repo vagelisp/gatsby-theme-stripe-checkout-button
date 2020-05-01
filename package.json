@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-stripe-checkout-button-for-plans",
+  "version": "1.0.0",
+  "description": "Gatby Stripe checkout button for plans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans.git"
+  },
+  "author": "Vagelis Papaioannou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans/issues"
+  },
+  "homepage": "https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans#readme"
+}
