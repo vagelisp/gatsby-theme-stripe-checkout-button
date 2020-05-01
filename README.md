@@ -47,7 +47,7 @@ import { Checkout } from 'gatsby-theme-stripe-checkout-button';
 
     <Checkout
         button={<MyCustomButton type="submit" text="Buy Now!"/>}
-        sku='sku_123'
+        plan='plan_123'
         quantity={1}
         customerEmail={customer@email.com}
     />
