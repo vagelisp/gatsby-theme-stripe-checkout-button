@@ -1,6 +1,6 @@
 {
   "name": "gatsby-stripe-checkout-button-for-plans",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gatby Stripe checkout button for plans",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,23 @@
   "bugs": {
     "url": "https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans/issues"
   },
-  "homepage": "https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans#readme"
+  "homepage": "https://github.com/vagelisp/gatsby-theme-stripe-checkout-button-for-plans#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "react",
+    "cart",
+    "ecommerce",
+    "stripe",
+    "recursive"
+  ],
+  "dependencies": {
+    "gatsby-plugin-compile-es6-packages": "^1.1.0",
+    "gatsby-plugin-page-creator": "^2.0.12",
+    "gatsby-plugin-stripe": "^1.2.0",
+    "gatsby-plugin-typescript": "^2.1.0",
+    "gatsby-source-filesystem": "^2.0.36",
+    "gatsby-source-stripe": "^2.2.2"
+  }
 }
+
