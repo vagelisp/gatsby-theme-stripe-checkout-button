@@ -30,7 +30,7 @@ module.exports = {
 
     plugins: [
       {
-        resolve: 'gatsby-theme-stripe-checkout-button',
+        resolve: 'gatsby-stripe-checkout-button-for-plans',
         options: {
           STRIPE_API_KEY,
           STRIPE_SECRET_KEY,
@@ -44,7 +44,7 @@ module.exports = {
 ## Example usage:
 
 ```
-import { Checkout } from 'gatsby-theme-stripe-checkout-button';
+import { Checkout } from 'gatsby-stripe-checkout-button-for-plans';
 
     <Checkout
         button={<MyCustomButton type="submit" text="Buy Now!"/>}
